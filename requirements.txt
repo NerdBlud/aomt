@@ -1,0 +1,16 @@
+aiohttp==3.8.3          
+requests==2.28.1       
+sublist3r==0.4.3       
+scapy==2.4.5          
+pyshark==0.4.2       
+shodan==1.26.0         
+censys==2.3.3          
+exiftool               
+PyPDF2==1.26.0          
+beautifulsoup4==4.11.1  
+lxml==4.9.2             
+html5lib==1.1          
+html.parser           
+paramiko==2.11.0       
+cryptography==38.0.4    
+pyyaml==6.0          
